@@ -14,6 +14,6 @@ public:
                 break;
             }
         }
-        return; stoi(num_str);
+        return stoi(num_str);
     }
 };
